@@ -1,1 +1,7 @@
 som zvedavý
+funguje 
+git checkout branch
+git add .
+git commit -m "commit branch"
+git push origin branch
+pushlo spravne
